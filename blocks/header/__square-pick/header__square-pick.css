@@ -1,0 +1,15 @@
+
+
+.header__square-pick{
+  position: absolute;
+  padding: 0; 
+  margin: 0;
+  background-color: #2f80ed;
+  background-repeat: no-repeat;
+  width: 568px;
+  height: 568px;
+  top:64px;  
+  right:0px;
+  bottom: auto;
+  animation: rotation 20s linear infinite;*/
+  }

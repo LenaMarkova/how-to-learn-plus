@@ -1,0 +1,11 @@
+.khan {
+    position: relative;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    padding-left: 10%;
+    padding-right: 10%;
+    background-color: #f2f2f2;
+   
+}

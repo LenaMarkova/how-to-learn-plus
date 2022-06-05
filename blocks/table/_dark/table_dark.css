@@ -1,0 +1,11 @@
+.table_dark {
+    display: flex;
+    column-gap: 60px;
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: center;
+    gap: 60px 60px;
+    padding-top: 80px;
+    padding-bottom: 90px;    
+    background-color: #1f1f1f;
+}
