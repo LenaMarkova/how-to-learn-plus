@@ -1,16 +1,14 @@
 .feinman__link {
-  opacity: 1;
-  transition: opacity 0.5s linear 1s;
-  line-height: 51px;
-  font-size: 36px;
-  font-weight: 400;
-  position: absolute;
-  background-color: transparent;
-  right: 0;
-  top: 50%;
-  bottom: 50%;
+    opacity: 1;
+    transition: opacity 0.5s linear 1s;
+    line-height: 51px;
+    font-size: 36px;
+    font-weight: 400;
+    position: absolute;
+    background-color: transparent;
+    right: 0;
 }
 
 .feinman__link:hover {
-  opacity: 0.4;
+    opacity: 0.4;
 }

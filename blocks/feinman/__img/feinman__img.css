@@ -1,13 +1,13 @@
 .feinman__img {
-position: absolute;
-margin: 0;
-padding: 0;
-background-color: transparent;
-background-image: url(../../../images/feynman.png);
-background-color: transparent;
-background-repeat: no-repeat;
-width: 867px;
-height: 637px;
-bottom: 0;
-left: 0;
+    position: absolute;
+    margin: 0;
+    padding: 0;
+    background-color: transparent;
+    background-image: url(../../../images/feynman.png);
+    background-color: transparent;
+    background-repeat: no-repeat;
+    width: 867px;
+    height: 637px;
+    bottom: 0;
+    left: 0;
 }

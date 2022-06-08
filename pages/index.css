@@ -1,10 +1,10 @@
 @import url("../vendor/normalize.css");
 @import url("../blocks/page/page.css");
-@import url("../blocks/header/header.css"); 
+@import url("../blocks/header/header.css");
 @import url("../blocks/header/__link/header__link.css");
-@import url("../blocks/logo/__logo/logo__logo.css");
-@import url("../blocks/logo/__logo/__logo_place_header/logo__logo_place_header.css");
-@import url("../blocks/logo/__logo/__logo_place_footer/logo__logo_place_footer.css");
+@import url("../blocks/logo/_place/logo_place_footer.css");
+@import url("../blocks/logo/_place/logo_place_header.css");
+@import url("../blocks/logo/logo.css");
 @import url("../blocks/header/__main-illustration/header__main-illustration.css");
 @import url("../blocks/header/__square-pick/header__square-pick.css");
 @import url("../blocks/header/__subtitle/header__subtitle.css");
@@ -71,8 +71,10 @@
 @import url("../blocks/khan/__quote-author-subline/khan__quote-author-subline.css");
 @import url("../blocks/khan/__quote-author/khan__quote-author.css");
 @import url("../blocks/khan/__quote/khan__quote.css");
+@import url("../blocks/khan/__container/khan__container.css");
 @import url("../blocks/oakley/oakley.css");
 @import url("../blocks/rotation/rotation.css");
+@import url("../blocks/techniques/techniques.css");
 @import url("../blocks/test/test.css");
 @import url("../blocks/cards/__image/_square-for-image/cards__image_square-for-image.css");
 @import url("../blocks/khan/__title/khan__title.css");
