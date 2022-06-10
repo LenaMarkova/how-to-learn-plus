@@ -1,16 +1,12 @@
 .footer__column-links {
-    opacity: 1;
-    transition: opacity 0.5s linear 1s;
-    margin: 0;
-    padding: 0;
-    padding-bottom: 16px;
+    display: flex;
+    flex-direction: column;
+    margin: 20px 0 16px;
+    gap: 10px;
     list-style-type: none;
+    padding: 0;
 }
 
-.footer__column-links:hover {
-    opacity: 0.4;
-}
-
-.footer__column-links:nth-of-type(3) {
+.footer__column-links:last-child {
     margin-bottom: 16px;
 }
