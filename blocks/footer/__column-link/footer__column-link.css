@@ -3,9 +3,16 @@
     transition: opacity 0.5s linear 1s;
     margin: 0;
     padding: 0;
-    color: white;
+    color: #ffffff;
     display: flex;
     flex-wrap: nowrap;
+    text-decoration: none;
+    padding-top: 10px;
+    overflow: hidden;
+}
+
+.footer__column-link:first-of-type {
+    padding-top: 0px;
 }
 
 .footer__column-link:hover {

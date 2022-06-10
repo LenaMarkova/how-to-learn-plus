@@ -1,0 +1,6 @@
+.section-title_theme_dark {
+    position: relative;
+    color: #ffffff;
+    background-color: transparent;
+    z-index: 2;
+}

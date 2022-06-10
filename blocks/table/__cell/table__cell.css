@@ -5,4 +5,5 @@
     row-gap: 20px;
     display: flex;
     flex-direction: column;
+    background-color: transparent;
 }
