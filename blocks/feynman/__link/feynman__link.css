@@ -9,6 +9,7 @@
     right: 48px;
     text-decoration: none;
     color: #2f80ed;
+    top: 50%;
 }
 
 .feynman__link:hover {
